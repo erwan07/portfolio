@@ -1,0 +1,42 @@
+body {
+    background-color: #444444;
+    color: white;
+    text-align: center;
+}
+
+header {
+    text-align: right;
+    background-color: white;
+}
+
+nav {
+    padding: 0.8em;
+}
+
+img {
+    height: 300px;
+    width: 300px;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+.presentation {
+    display: flex;  
+}
+
+.presentation img {
+    align-self: center;
+    height: 200px;
+    width: 200px;
+}
+
+.presentation p{
+    padding: 0 2em;
+}
+
+a {
+    color: rgb(0, 153, 255);
+    text-decoration: none;
+}
